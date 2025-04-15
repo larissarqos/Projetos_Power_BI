@@ -37,8 +37,8 @@ Do total, 43.203 assinaturas estão ativas (61,72%) e 26.790 estão canceladas (
 **1. Que produto é o mais assinado?**  
 HBO (17.508 assinaturas), Netflix (15.405 assinaturas) e Amazon (14.337 assinatuas) lideram o TOP 3, respondendo a quase 70% do total de assinaturas.
    
-2. **Quais as taxas de retenção e churn, por produto?**
-   Conforme tabela abaixo, podemos notar que não há grande variação nas taxas de retenção e churn, de acordo com o produto. Todos apresentam taxas similares.
+**2. Quais as taxas de retenção e churn, por produto?**  
+Conforme tabela abaixo, podemos notar que não há grande variação nas taxas de retenção e churn, de acordo com o produto. Todos apresentam taxas similares.
 
 | Produto   | Total Assinaturas | Taxa de Retenção | Taxa de Churn |
 |-----------|-------------------|------------------|---------------|
@@ -49,8 +49,8 @@ HBO (17.508 assinaturas), Netflix (15.405 assinaturas) e Amazon (14.337 assinatu
 | Netflix   | 15.405 | 61,46% | 38,54% |
 | Telecine  | 6.097  | 62,29% | 37,71% | 
 
-3. **Quais as taxas de churn e retenção, por campanha?**
-   Comparando o total de assinaturas das campanhas Promocional e Reativação, cuja quantidade de assinaturas é similar, nota-se o quão alta é a taxa de churn da campanha promocional (73,01%), quase o dobro de Reativação.
+**3. Quais as taxas de churn e retenção, por campanha?**  
+Comparando o total de assinaturas das campanhas Promocional e Reativação, cuja quantidade de assinaturas é similar, nota-se o quão alta é a taxa de churn da campanha promocional (73,01%), quase o dobro de Reativação.
 
 | Campanha  | Total Assinaturas | Taxa de Retenção | Taxa de Churn |
 |-----------|-------------------|------------------|---------------|
@@ -58,18 +58,18 @@ HBO (17.508 assinaturas), Netflix (15.405 assinaturas) e Amazon (14.337 assinatu
 | Reativação  | 21.133 | 60,67% | 39,33% |
 | Recorrente  | 29.767 | 84,80% | 15,25% |
 
-4. **Que tipo assinatura teve menor taxa de churn: anual ou mensal?**
-   As assinaturas anuais, mesmo em maior número (aprox. 7 mil assinaturas a mais) que as mensais, possuem menor taxa de cancelamento (32,44%), enquanto as assinaturas por mês contam churn de 45,44%.
+**4. Que tipo assinatura teve menor taxa de churn: anual ou mensal?**  
+As assinaturas anuais, mesmo em maior número (aprox. 7 mil assinaturas a mais) que as mensais, possuem menor taxa de cancelamento (32,44%), enquanto as assinaturas por mês contam churn de 45,44%.
 
 | Tipo Assinatura  | Total Assinaturas | Taxa de Retenção | Taxa de Churn |
 |------------------|-------------------|------------------|---------------|
 | Anual   | 38.576 | 67,56% | 32,44% |
 | Mensal  | 31.417 | 54,56% | 45,44% |
 
-5. **Que períodos do ano contaram com maior taxa de churn?**
-   As assinaturas dos meses de julho/2022 e janeiro/2023, de forma geral, contaram com uma maior taxa de cancelamentos.
+**5. Que períodos do ano contaram com maior taxa de churn?**  
+As assinaturas dos meses de julho/2022 e janeiro/2023, de forma geral, contaram com uma maior taxa de cancelamentos.
 
-6. **Indique o produto, campanha, e tipo de assinatura com os melhores resultados**
+**6. Indique o produto, campanha, e tipo de assinatura com os melhores resultados**
    
 * **Produto:** Os produtos contaram com um desempenho similar em quesitos de churn e retenção. Se avaliarmos por total de assinaturas, HBO, Netflix e Amazon tiveram melhor desempenho
 * **Campanha:** As camapanhas de reativação tiveram menor taxa de churn, 15,25%
