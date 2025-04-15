@@ -34,8 +34,8 @@ Do total, 43.203 assinaturas estão ativas (61,72%) e 26.790 estão canceladas (
 
 ### 2. Respondendo às perguntas de negócio
 
-1. **Que produto é o mais assinado?**
-   HBO (17.508 assinaturas), Netflix (15.405 assinaturas) e Amazon (14.337 assinatuas) lideram o TOP 3, respondendo a quase 70% do total de assinaturas.
+**1. Que produto é o mais assinado?**  
+HBO (17.508 assinaturas), Netflix (15.405 assinaturas) e Amazon (14.337 assinatuas) lideram o TOP 3, respondendo a quase 70% do total de assinaturas.
    
 2. **Quais as taxas de retenção e churn, por produto?**
    Conforme tabela abaixo, podemos notar que não há grande variação nas taxas de retenção e churn, de acordo com o produto. Todos apresentam taxas similares.
