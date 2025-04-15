@@ -32,6 +32,8 @@ Há um total de 69.993 assinaturas
 **3. Qual o total de assinaturas ativas e canceladas?**  
 Do total, 43.203 assinaturas estão ativas (61,72%) e 26.790 estão canceladas (38,28%)
 
+<br>
+
 ### 3. Respondendo às perguntas de negócio
 
 **1. Que produto é o mais assinado?**  
@@ -74,6 +76,8 @@ As assinaturas dos meses de julho/2022 e janeiro/2023, de forma geral, contaram 
 * **Produto:** Os produtos contaram com um desempenho similar em quesitos de churn e retenção. Se avaliarmos por total de assinaturas, HBO, Netflix e Amazon tiveram melhor desempenho
 * **Campanha:** As camapanhas de reativação tiveram menor taxa de churn, 15,25%
 * **Tipo de Assinatura:** As assinaturas anuais contaram com menor taxa de cancelamento, 32,44%
+
+<br>
 
 ### 4. Sugestões
 De acordo com a análise dos dados, segue sugestões de ações para melhorias:
