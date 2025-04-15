@@ -24,21 +24,21 @@ Abaixo o dicionário dos dados:
 ### 1. Análise Exploratória
 
 1. **Qual o período avaliado?**
-As datas de assinatura de fevereiro de 2022 a abril de 2023
+   As datas de assinatura de fevereiro de 2022 a abril de 2023
 
-3. **Qual o total de assinaturas?**
-Há um total de 69.993 assinaturas
+2. **Qual o total de assinaturas?**
+   Há um total de 69.993 assinaturas
 
-5. **Qual o total de assinaturas ativas e canceladas?**
-Do total, 43.203 assinaturas estão ativas (61,72%) e 26.790 estão canceladas (38,28%)
+3. **Qual o total de assinaturas ativas e canceladas?**
+   Do total, 43.203 assinaturas estão ativas (61,72%) e 26.790 estão canceladas (38,28%)
 
 ### 2. Respondendo às perguntas de negócio
 
-1. Que produto é o mais assinado?
+1. **Que produto é o mais assinado?**
    HBO (17.508 assinaturas), Netflix (15.405 assinaturas) e Amazon (14.337 assinatuas) lideram o TOP 3, respondendo a quase 70% do total de assinaturas.
    
 2. **Quais as taxas de retenção e churn, por produto?**
- Conforme tabela abaixo, podemos notar que não há grande variação nas taxas de retenção e churn, de acordo com o produto. Todos apresentam taxas similares.
+   Conforme tabela abaixo, podemos notar que não há grande variação nas taxas de retenção e churn, de acordo com o produto. Todos apresentam taxas similares.
 
 | Produto   | Total Assinaturas | Taxa de Retenção | Taxa de Churn |
 |-----------|-------------------|------------------|---------------|
@@ -50,7 +50,7 @@ Do total, 43.203 assinaturas estão ativas (61,72%) e 26.790 estão canceladas (
 | Telecine  | 6.097  | 62,29% | 37,71% | 
 
 3. **Quais as taxas de churn e retenção, por campanha?**
- Comparando o total de assinaturas das campanhas Promocional e Reativação, cuja quantidade de assinaturas é similar, nota-se o quão alta é a taxa de churn da campanha promocional (73,01%), quase o dobro de Reativação.
+   Comparando o total de assinaturas das campanhas Promocional e Reativação, cuja quantidade de assinaturas é similar, nota-se o quão alta é a taxa de churn da campanha promocional (73,01%), quase o dobro de Reativação.
 
 | Campanha  | Total Assinaturas | Taxa de Retenção | Taxa de Churn |
 |-----------|-------------------|------------------|---------------|
@@ -59,7 +59,7 @@ Do total, 43.203 assinaturas estão ativas (61,72%) e 26.790 estão canceladas (
 | Recorrente  | 29.767 | 84,80% | 15,25% |
 
 4. **Que tipo assinatura teve menor taxa de churn: anual ou mensal?**
- As assinaturas anuais, mesmo em maior número (aprox. 7 mil assinaturas a mais) que as mensais, possuem menor taxa de cancelamento (32,44%), enquanto as assinaturas por mês contam churn de 45,44%.
+   As assinaturas anuais, mesmo em maior número (aprox. 7 mil assinaturas a mais) que as mensais, possuem menor taxa de cancelamento (32,44%), enquanto as assinaturas por mês contam churn de 45,44%.
 
 | Tipo Assinatura  | Total Assinaturas | Taxa de Retenção | Taxa de Churn |
 |------------------|-------------------|------------------|---------------|
@@ -67,7 +67,7 @@ Do total, 43.203 assinaturas estão ativas (61,72%) e 26.790 estão canceladas (
 | Mensal  | 31.417 | 54,56% | 45,44% |
 
 5. **Que períodos do ano contaram com maior taxa de churn?**
-As assinaturas dos meses de julho/2022 e janeiro/2023, de forma geral, contaram com uma maior taxa de cancelamentos.
+   As assinaturas dos meses de julho/2022 e janeiro/2023, de forma geral, contaram com uma maior taxa de cancelamentos.
 
 6. **Indique o produto, campanha, e tipo de assinatura com os melhores resultados**
    
