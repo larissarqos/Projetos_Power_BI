@@ -21,7 +21,7 @@ Abaixo o dicionário dos dados:
 
 <br>
 
-### 1. Análise Exploratória
+### 2. Análise Exploratória
 
 **1. Qual o período avaliado?**  
 As datas de assinatura de fevereiro de 2022 a abril de 2023
@@ -32,7 +32,7 @@ Há um total de 69.993 assinaturas
 **3. Qual o total de assinaturas ativas e canceladas?**  
 Do total, 43.203 assinaturas estão ativas (61,72%) e 26.790 estão canceladas (38,28%)
 
-### 2. Respondendo às perguntas de negócio
+### 3. Respondendo às perguntas de negócio
 
 **1. Que produto é o mais assinado?**  
 HBO (17.508 assinaturas), Netflix (15.405 assinaturas) e Amazon (14.337 assinatuas) lideram o TOP 3, respondendo a quase 70% do total de assinaturas.
@@ -75,5 +75,5 @@ As assinaturas dos meses de julho/2022 e janeiro/2023, de forma geral, contaram 
 * **Campanha:** As camapanhas de reativação tiveram menor taxa de churn, 15,25%
 * **Tipo de Assinatura:** As assinaturas anuais contaram com menor taxa de cancelamento, 32,44%
 
-### 3. Sugestões
+### 4. Sugestões
 De acordo com a análise dos dados, segue sugestões de ações para melhorias:
