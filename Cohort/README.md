@@ -29,8 +29,8 @@ As datas de assinatura de fevereiro de 2022 a abril de 2023
 **2. Qual o total de assinaturas?**
 Há um total de 69.993 assinaturas
 
-4. **Qual o total de assinaturas ativas e canceladas?**
-   Do total, 43.203 assinaturas estão ativas (61,72%) e 26.790 estão canceladas (38,28%)
+**3. Qual o total de assinaturas ativas e canceladas?**  
+Do total, 43.203 assinaturas estão ativas (61,72%) e 26.790 estão canceladas (38,28%)
 
 ### 2. Respondendo às perguntas de negócio
 
