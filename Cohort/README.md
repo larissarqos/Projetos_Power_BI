@@ -26,8 +26,8 @@ Abaixo o dicionário dos dados:
 **1. Qual o faturamento de 2024?**  
 O faturamento total do ano foi de **R$461.743,30**. Analisando por unidade, Leblon e Ipanema contaram com os maiores faturamentos, respectivamente 28% e 21,8% do total.
 
-**1. Qual o período avaliado?**
-   As datas de assinatura de fevereiro de 2022 a abril de 2023
+**1. Qual o período avaliado?**  
+As datas de assinatura de fevereiro de 2022 a abril de 2023
 
 2. **Qual o total de assinaturas?**
    Há um total de 69.993 assinaturas
