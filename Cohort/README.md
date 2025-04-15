@@ -26,7 +26,7 @@ Abaixo o dicionário dos dados:
 **1. Qual o período avaliado?**  
 As datas de assinatura de fevereiro de 2022 a abril de 2023
 
-2. **Qual o total de assinaturas?**
+**2. Qual o total de assinaturas?**
 Há um total de 69.993 assinaturas
 
 4. **Qual o total de assinaturas ativas e canceladas?**
