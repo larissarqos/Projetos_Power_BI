@@ -80,4 +80,10 @@ As assinaturas dos meses de julho/2022 e janeiro/2023, de forma geral, contaram 
 <br>
 
 ### 4. Sugestões
-De acordo com a análise dos dados, segue sugestões de ações para melhorias:
+De maneira geral, a taxa de churn dos serviços é altíssima, quase 40%. O ideal é que esteja mais próxima de 0 possível, sendo 5% um valor aceitável. Se temos 40% como taxa de churn, estamos 8x acima do cenário ideal e isso é preocupante. O foco das sugestões será a redução dos cancelamentos, segue alguns pontos que podemos considerar para melhorar nossa retenção:
+
+* **Primeiro, foco:** Devemos focar em assinaturas do tipo anual e campanhas do tipo Recorrente. Um programa de membros pode ajudar a unir essas duas opções, ofertando produtos diferenciados e exclusivos para os clientes que optarem por essa opção. No geral, aumentar o contato com o cliente, melhorar o atendimento e estar atento às preferências de acordo com seu perfil, são ações que podem melhorar a confiança e fidelidade desses clientes, aumentanddo nossa retenção.
+
+* **Programas de Fidelização:** Com uma taxa de churn de quase 40%, devemos desenvolver programas de fidelização para nossos clientes. Oferecer descontos e ofertas em meses comemorativos (vai criar no cliente a expectativa de receber uma nova promoção nas próximas datas comemorativas); incentivar a assinatura para pacotes família ou assinatura compartilhada (aumentando a fidelização do cliente) e inserir também programas de recomendação, concedendo descontos ou mensalidade grátis para cada indicação bem sucedida, são medidas que podem fazer nossos clientes ficarem mais tempo.
+
+* **Avaliar a campanha Promocional:**  Quase 1/3 dos clientes vieram através da campanha promocional e mais de 70% deles cancelaram. Devemos analisar que programas de fidelização foram aplicadas para manter esses clientes e, se foram aplicadas, qual o motivo de seu fracasso. A retenção foi baixíssima para essa campanha, apesar da alta captação de clientes. Devemos nos perguntar: o público alvo da campanha tinha real interesse no que foi ofertado? Houveram muitas reclamações dos que vieram por essa campanha? O que foi feito para manter esse clientes? Essas perguntas podem nos guiar a otimizar uma próxima campanha promocional (que teve boa captação) e aumentar a retenção de clientes através dela.
