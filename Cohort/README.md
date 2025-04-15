@@ -4,7 +4,7 @@
 Precisamos descobrir a taxa de churn de diferentes serviços de assinaturas de streaming (dados fictícios): Amazon, Disney, Globoplay, HBO, Netflix e Telecine. Para isso, aplicaremos a Análise de Cohort para entender os resultados dos diferentes serviços, considerando também a campanha em que foi assinado o produto (se promocional, de reativação ou recorrente) e qual o tipo de assinatura (se mensal ou anual). A análise realizada no Power BI nos guiará a responder a uma série de perguntas de negócio e propor possíveis soluções.
 
 ## Objetivos
-O objetivo da análise é identificar as taxas de churn e retenção dos serviços de assinatura considerando os fatores campanha e tipo de assinatura. Através da análise, vamos identificar os principais influenciadores da taxa de churn e o que pode ser feito para aumentar nossa taxa de retenção. Começaremos com uma análise exploratória dos dados e então responderemos a uma série de perguntas de negócio. perguntas:
+O objetivo da análise é identificar as taxas de churn e retenção dos serviços de assinatura considerando os fatores campanha e tipo de assinatura. Através da análise, vamos identificar os principais influenciadores da taxa de churn e o que pode ser feito para aumentar nossa taxa de retenção. Começaremos com uma análise exploratória dos dados e então responderemos a uma série de perguntas de negócio.
 
 ## Estrutura do Projeto
 ### 1. Banco de dados
