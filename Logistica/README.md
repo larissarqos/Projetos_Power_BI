@@ -31,15 +31,17 @@ Abaixo o dicionário dos dados:
 **1. Indique o total de viagens e a porcentagem dentro e fora do prazo**  
 aaaaa
 
-3. Apresente o total de viagens por tipo de veículo
-   aaaa
+**2. Apresente o total de viagens por tipo de veículo**  
+aaaa
 
-5. Apresente o total de viagens por transportadora
-   aaaaaaa
+**3. Apresente o total de viagens por transportadora**  
+aaaaaaa
 
-7. Qual o valor total de frete, por ano avaliado?
+**4. Qual o valor total de frete, por ano avaliado?**  
+aaaa
 
-8. Quais regiões mais contaram com entregas?
+**4. Quais regiões mais contaram com entregas?**  
+aaaa
 
 <br>
 
