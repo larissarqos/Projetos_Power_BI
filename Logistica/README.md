@@ -29,19 +29,36 @@ Abaixo o dicionário dos dados:
 ### 2. Análise Exploratória
 
 **1. Indique o total de viagens e a porcentagem dentro e fora do prazo**  
-aaaaa
+No período de janeiro/2022 a agosto/2023 tivemos um total de 8.362 viagens. Desse total:
 
-**2. Apresente o total de viagens por tipo de veículo**  
-aaaa
+* 5.830 foram dentro do prazo (69,72%)
+* 2.432 foram com atraso (29,08%)
 
-**3. Apresente o total de viagens por transportadora**  
-aaaaaaa
+**2. Apresente o total de viagens por transportadora**  
+| Transportadora | Total de Viagens | % do Total |
+|----------------|------------------|------------|
+| Log Elite             | 5.400 | 64,58% |
+| RodaFirme Transportes | 1.238 | 14,80% |
+| Cargas Bahia          | 1.157 | 13,84% |
+| ExpressCargo          | 567   |  6,78% |
+
+**3. Apresente o total de viagens por tipo de veículo**  
+| Veículo | Total de Viagens | % do Total |
+|----------------|------------------|------------|
+| Truck   | 4.994 | 59,72% |
+| VUC     | 1.643 | 19,65% |
+| Carreta | 1.359 | 16,25% |
+| Toco    |   366 |  4,38% |
 
 **4. Qual o valor total de frete, por ano avaliado?**  
-aaaa
+O valor total de frete para 2022 inteiro foi de R$22,92 milhões. Como 2023 vai até agosto em nossa análise, vamos considerar esse mesmo período para os dois anos:
+* Janeiro/2022 a Agosto/2022: R$15,59 milhões
+* Janeiro/2023 a Agosto/2023: R$17,18 milhões
 
-**5. Quais regiões mais contaram com entregas?**  
-aaaa
+Agosto de 2022 contou com um valor de frete 10,20% maior que o mesmo período do ano passado.
+
+**5. Quais estados mais contaram com entregas?**  
+Os estados de São Paulo, Minas Gerais, Paraná, Rio Grande do Sul e Santa Catarina foram os principais destinos das entregas. No geral, as regiões Sul e Sudeste detém nossa maior clientela.
 
 <br>
 
@@ -53,7 +70,7 @@ aaa
 **2. Que tipo de veículo mais atrasou entregas?**  
 aaa
 
-**3. Há relação com a carga e o atraso?**  
+**3. Há relação com o peso de carga e o atraso?**  
 aaa
 
 **4. Que regiões tiveram maior atraso nas entregas?**  
@@ -72,10 +89,3 @@ aaa
 <br>
 
 ### 4. Sugestões
-De maneira geral, a taxa de churn dos serviços é altíssima, quase 40%. O ideal é que esteja mais próxima de 0 possível, sendo 5% um valor aceitável. Se temos 40% como taxa de churn, estamos 8x acima do cenário ideal e isso é preocupante. O foco das sugestões será a redução dos cancelamentos, segue alguns pontos que podemos considerar para melhorar nossa retenção:
-
-* **Primeiro, foco:** Devemos focar em assinaturas do tipo anual e campanhas do tipo Recorrente. Um programa de membros pode ajudar a unir essas duas opções, ofertando produtos diferenciados e exclusivos para os clientes que optarem por essa opção. No geral, aumentar o contato com o cliente, melhorar o atendimento e estar atento às preferências de acordo com seu perfil, são ações que podem melhorar a confiança e fidelidade desses clientes, aumentanddo nossa retenção.
-
-* **Programas de Fidelização:** Com uma taxa de churn de quase 40%, devemos desenvolver programas de fidelização para nossos clientes. Oferecer descontos e ofertas em meses comemorativos (vai criar no cliente a expectativa de receber uma nova promoção nas próximas datas comemorativas); incentivar a assinatura para pacotes família ou assinatura compartilhada (aumentando a fidelização do cliente) e inserir também programas de recomendação, concedendo descontos ou mensalidade grátis para cada indicação bem sucedida, são medidas que podem fazer nossos clientes ficarem mais tempo.
-
-* **Avaliar a campanha Promocional:**  Quase 1/3 dos clientes vieram através da campanha promocional e mais de 70% deles cancelaram. Devemos analisar que programas de fidelização foram aplicadas para manter esses clientes e, se foram aplicadas, qual o motivo de seu fracasso. A retenção foi baixíssima para essa campanha, apesar da alta captação de clientes. Devemos nos perguntar: o público alvo da campanha tinha real interesse no que foi ofertado? Houveram muitas reclamações dos que vieram por essa campanha? O que foi feito para manter esse clientes? Essas perguntas podem nos guiar a otimizar uma próxima campanha promocional (que teve boa captação) e aumentar a retenção de clientes através dela.
