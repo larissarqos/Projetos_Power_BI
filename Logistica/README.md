@@ -28,7 +28,7 @@ Abaixo o dicionário dos dados:
 
 ### 2. Análise Exploratória
 
-1. Indique o total de viagens e a porcentagem dentro e fora do prazo
+**1. Indique o total de viagens e a porcentagem dentro e fora do prazo**
 aaaaa
 
 3. Apresente o total de viagens por tipo de veículo
