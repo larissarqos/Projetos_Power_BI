@@ -40,26 +40,33 @@ aaaaaaa
 **4. Qual o valor total de frete, por ano avaliado?**  
 aaaa
 
-**4. Quais regiões mais contaram com entregas?**  
+**5. Quais regiões mais contaram com entregas?**  
 aaaa
 
 <br>
 
 ### 3. Respondendo às perguntas de negócio
 
-1. Indique o total de viagens, valor de frete e peso de carga, por tipo de veículo.
+**1. Indique o total de viagens, valor de frete e peso de carga, por tipo de veículo.**  
+aaa
 
-2. Que tipo de veículo mais atrasou entregas?
+**2. Que tipo de veículo mais atrasou entregas?**  
+aaa
 
-3. Há relação com a carga e o atraso?
+**3. Há relação com a carga e o atraso?**  
+aaa
 
-4. Que regiões tiveram maior atraso nas entregas?
+**4. Que regiões tiveram maior atraso nas entregas?**  
+aaa
 
-5. Que regiões têm maior custo de frete? Qual a margem de atraso?
+**5. Que regiões têm maior custo de frete? Qual a margem de atraso?**  
+aaa
 
-6. Que períodos do ano contaram com maior valor de frete?
+**6. Que períodos do ano contaram com maior valor de frete?**  
+aaa
 
-7. Que transportadora mais realizou viagens? Qual o desempenho delas em relação ao atraso nas entregas? utilizar KPI
+**7. Que transportadora mais realizou viagens? Qual o desempenho delas em relação ao atraso nas entregas? utilizar KPI**  
+aaa
 
 
 <br>
