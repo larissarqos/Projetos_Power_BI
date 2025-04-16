@@ -1,15 +1,10 @@
 <h1 align="center">Business Case - Dashboard de Logística</h1>
 
 ## Contexto
-A área de logística de uma empresa automotiva fictícia busca otimizar a eficiência operacional e melhorar a satisfação dos clientes através de uma gestão mais precisa das suas operações de transporte. O time realiza reuniões mensais com as transportadoras contratadas e precisa de uma visão detalhada das operações, que permita a análise de rotas, desempenho de transporte e otimização de recursos.
+A área de logística de uma empresa automotiva fictícia busca otimizar a eficiência operacional e melhorar a satisfação dos clientes através de uma gestão mais precisa das suas operações de transporte. Eles desejam, especialmente, avaliar os atrasos nas entregas e que fatores estão relacionados a esses atrasos, para que possam operar nesses problemas e assim melhorar seus resultados e atendimento aos seus clientes.
 
 ## Objetivos
-O objetivo da análise é identificar possíveis problemas de desempenho no setor e sugerir soluções aplicáveis para estes. Para isso, nossa análise buscará responder às seguinte perguntas:
-Nossas entregas têm sido realizadas dentro do prazo?
-O valor do frete tem apresentado grande variação? 
-Qual o desempenho dos nossos tipos de veículo?
-Como está a eficiência do transporte?
-
+O objetivo da análise é identificar fatores relacionados ao atraso nas entregas e propor soluções que diminuam as taxas de atraso, melhorando assim a qualidade dos serviços da empresa e consequentemente aumentando a satisfação dos clientes.
 
 ## Estrutura do Projeto
 ### 1. Banco de dados
@@ -33,59 +28,35 @@ Abaixo o dicionário dos dados:
 
 ### 2. Análise Exploratória
 
-**1. Qual o período avaliado?**  
-As datas de assinatura de fevereiro de 2022 a abril de 2023
+1. Indique o total de viagens e a porcentagem dentro e fora do prazo.
+   kkkkkkkkkkkkkkkkkkk
 
-**2. Qual o total de assinaturas?**  
-Há um total de 69.993 assinaturas
+3. Apresente o total de viagens por tipo de veículo.
 
-**3. Qual o total de assinaturas ativas e canceladas?**  
-Do total, 43.203 assinaturas estão ativas (61,72%) e 26.790 estão canceladas (38,28%)
+4. Apresente o total de viagens por transportadora
+
+5. Qual o valor total de frete, por ano avaliado?
+
+6. Quais regiões mais contaram com entregas?
 
 <br>
 
 ### 3. Respondendo às perguntas de negócio
 
-**1. Que produto é o mais assinado?**  
-HBO (17.508 assinaturas), Netflix (15.405 assinaturas) e Amazon (14.337 assinatuas) lideram o TOP 3, respondendo a quase 70% do total de assinaturas.
-   
-**2. Quais as taxas de retenção e churn, por produto?**  
-Conforme tabela abaixo, podemos notar que não há grande variação nas taxas de retenção e churn, de acordo com o produto. Todos apresentam taxas similares.
+1. Indique o total de viagens, valor de frete e peso de carga, por tipo de veículo.
 
-| Produto   | Total Assinaturas | Taxa de Retenção | Taxa de Churn |
-|-----------|-------------------|------------------|---------------|
-| Amazon    | 14.337 | 61,44% | 38,56% |
-| Disney    | 8.095  | 61,33% | 38,67% |
-| Globoplay | 8.551  | 61,90% | 38,10% |
-| HBO       | 17.508 | 62,09% | 37,91% |
-| Netflix   | 15.405 | 61,46% | 38,54% |
-| Telecine  | 6.097  | 62,29% | 37,71% | 
+2. Que tipo de veículo mais atrasou entregas?
 
-**3. Quais as taxas de churn e retenção, por campanha?**  
-Comparando o total de assinaturas das campanhas Promocional e Reativação, cuja quantidade de assinaturas é similar, nota-se o quão alta é a taxa de churn da campanha promocional (73,01%), quase o dobro de Reativação.
+3. Há relação com a carga e o atraso?
 
-| Campanha  | Total Assinaturas | Taxa de Retenção | Taxa de Churn |
-|-----------|-------------------|------------------|---------------|
-| Promocional | 19.093 | 26,99% | 73,01% |
-| Reativação  | 21.133 | 60,67% | 39,33% |
-| Recorrente  | 29.767 | 84,80% | 15,25% |
+4. Que regiões tiveram maior atraso nas entregas?
 
-**4. Que tipo assinatura teve menor taxa de churn: anual ou mensal?**  
-As assinaturas anuais, mesmo em maior número (aprox. 7 mil assinaturas a mais) que as mensais, possuem menor taxa de cancelamento (32,44%), enquanto as assinaturas por mês contam churn de 45,44%.
+5. Que regiões têm maior custo de frete? Qual a margem de atraso?
 
-| Tipo Assinatura  | Total Assinaturas | Taxa de Retenção | Taxa de Churn |
-|------------------|-------------------|------------------|---------------|
-| Anual   | 38.576 | 67,56% | 32,44% |
-| Mensal  | 31.417 | 54,56% | 45,44% |
+6. Que períodos do ano contaram com maior valor de frete?
 
-**5. Que períodos do ano contaram com maior taxa de churn?**  
-As assinaturas dos meses de julho/2022 e janeiro/2023, de forma geral, contaram com uma maior taxa de cancelamentos.
+7. Que transportadora mais realizou viagens? Qual o desempenho delas em relação ao atraso nas entregas? utilizar KPI
 
-**6. Indique o produto, campanha, e tipo de assinatura com os melhores resultados**
-   
-* **Produto:** Os produtos contaram com um desempenho similar em quesitos de churn e retenção. Se avaliarmos por total de assinaturas, HBO, Netflix e Amazon tiveram melhor desempenho
-* **Campanha:** As camapanhas de reativação tiveram menor taxa de churn, 15,25%
-* **Tipo de Assinatura:** As assinaturas anuais contaram com menor taxa de cancelamento, 32,44%
 
 <br>
 
