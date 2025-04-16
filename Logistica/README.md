@@ -28,16 +28,18 @@ Abaixo o dicionário dos dados:
 
 ### 2. Análise Exploratória
 
-1. Indique o total de viagens e a porcentagem dentro e fora do prazo.
-   kkkkkkkkkkkkkkkkkkk
+1. Indique o total de viagens e a porcentagem dentro e fora do prazo
+   aaaaa
 
-3. Apresente o total de viagens por tipo de veículo.
+3. Apresente o total de viagens por tipo de veículo
+   aaaa
 
-4. Apresente o total de viagens por transportadora
+5. Apresente o total de viagens por transportadora
+   aaaaaaa
 
-5. Qual o valor total de frete, por ano avaliado?
+7. Qual o valor total de frete, por ano avaliado?
 
-6. Quais regiões mais contaram com entregas?
+8. Quais regiões mais contaram com entregas?
 
 <br>
 
