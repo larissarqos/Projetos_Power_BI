@@ -87,7 +87,7 @@ Selecionando o Top 3: Minas Gerais, Piauí e Rio de Janeiro têm maior custo de 
 | PI  | R$4,76 mil | 33% |
 | RJ  | R$4,72 mil | 30% |
 
-**5. Que transportadora mais realizou viagens? Qual o desempenho delas em relação ao atraso nas entregas? utilizar KPI**  
+**5. Que transportadora mais realizou viagens? Qual o desempenho delas em relação ao atraso nas entregas?**  
 | Transportadora | Total Viagens | Taxa Atraso |
 |----------------|---------------|-------------|
 | Cargas Bahia          | 1,16 mil | 30,08% |
@@ -95,8 +95,12 @@ Selecionando o Top 3: Minas Gerais, Piauí e Rio de Janeiro têm maior custo de 
 | Log Elite             | 5,40 mil | 31,28% |
 | RodaFirme Transportes | 1,22 mil | 31,91% |
 
-
 <br>
 
 ### 4. Sugestões
-Considerando que a maior parte dos transportes para essa região vieram de Campinas/SP, fatores como a distância da viagem, tipo de estrada e desempenho do veículo (tipo Truck foi o mais utilizado) podem estar influenciando 
+De acordo com a análise, podemos considerar alguns pontos:
+* Descartar o fator peso de carga como principal influenciador dos atrasos no transporte;
+* No geral, a região Nordeste conta com maior taxa de atraso. Considerando que a maior parte dos transportes para essa região vieram de Campinas/SP, podemos considerar fatores externos para esse atraso: distância do transporte, qualidade das estradas para essas regiões;
+* As transportadores têm desempenho semelhante no que diz respeito aos atrasos.
+
+  
