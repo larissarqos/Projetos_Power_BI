@@ -103,4 +103,8 @@ De acordo com a análise, podemos considerar alguns pontos:
 * No geral, a região Nordeste conta com maior taxa de atraso. Considerando que a maior parte dos transportes para essa região vieram de Campinas/SP, podemos considerar fatores externos para esse atraso: distância do transporte, qualidade das estradas para essas regiões;
 * As transportadores têm desempenho semelhante no que diz respeito aos atrasos.
 
-  
+De acordo com esses pontos e análise em geral, podemos tomar algumas das seguintes decisões:
+* Buscar otimizar o transporte, verificando a viabilidade de utilizar as transportadores de Salvador para atender especialmente o Nordeste (transportes saídos de Salvador para as outras cidades do Nordeste têm menor taxa de atraso quando comparados a Campinas e Manaus);
+* Aumentar o prazo contratado para as regiões cuja margem de atraso é maior, especialmente considerando que esses atrasos podem estar ligados a fatores externos (qualidade da estrada, distância);
+* Dar preferência a veículos do tipo Carreta e Truck, que contaram com melhor desempenho na relação atraso x peso de carga.
+
