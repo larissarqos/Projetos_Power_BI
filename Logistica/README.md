@@ -64,28 +64,39 @@ Os estados de São Paulo, Minas Gerais, Paraná, Rio Grande do Sul e Santa Catar
 
 ### 3. Respondendo às perguntas de negócio
 
-**1. Indique o total de viagens, valor de frete e peso de carga, por tipo de veículo.**  
-aaa
+**1. Indique a taxa de atraso e as médias de valor de frete e peso de carga, por tipo de veículo.**  
+Carreta e VUC contam com as maiores taxas de atraso, 30,68% e 29,28%, respectivamente.
+| Veículo | Taxa Atraso | Média Valor Frete | Média Peso Carga (kg) |
+|---------|-------------|-------------------|-----------------|
+| Truck   | 28,69% | R$5,32 mil | 6,56 mil  kg |
+| VUC     | 29,28% | R$844,88   | 1,11 mil  kg |
+| Carreta | 30,68% | R$8,26 mil | 12,99 mil kg |
+| Toco    | 27,60% | R$2,50 mil | 3,30 mil  kg |
 
-**2. Que tipo de veículo mais atrasou entregas?**  
-aaa
+**2. Há relação com o peso de carga e o atraso?**  
+Não é possível relacionar peso e taxa de atraso, uma vez que, conforme tabela vista anteriormente, Carreta tem maior peso médio de carga e VUC tem menor peso médio, no entanto, ambos têm taxa de atraso muito semelhante. O fator atraso pode estar relacionado ao desempenho dos próprios veículos com a distância do transporte.
 
-**3. Há relação com o peso de carga e o atraso?**  
-aaa
+**3. Que regiões tiveram maior atraso nas entregas?**  
+Os estados de Alagoas, Maranhão e Piauí contaram com maior taxa de atraso, 33% em ambos. Além disso, outros dois estados da região também possuem valor semelhante: Ceará (32%) e Paraíba (31%). Logo, podemos considerar a região Nordeste como aquela com maior taxa de atraso.
 
-**4. Que regiões tiveram maior atraso nas entregas?**  
-aaa
+**4. Que regiões têm maior custo médio de frete? Qual a margem de atraso para essas regiões?**  
+Selecionando o Top 3: Minas Gerais, Piauí e Rio de Janeiro têm maior custo de frete. Na tabela a relação Custo frete x Taxa atraso:
+| Estado | Custo Médio Frete | Taxa Atraso |
+|--------|-------------------|-------------|
+| MG  | R$6,74 mil | 29% |
+| PI  | R$4,76 mil | 33% |
+| RJ  | R$4,72 mil | 30% |
 
-**5. Que regiões têm maior custo de frete? Qual a margem de atraso?**  
-aaa
-
-**6. Que períodos do ano contaram com maior valor de frete?**  
-aaa
-
-**7. Que transportadora mais realizou viagens? Qual o desempenho delas em relação ao atraso nas entregas? utilizar KPI**  
-aaa
+**5. Que transportadora mais realizou viagens? Qual o desempenho delas em relação ao atraso nas entregas? utilizar KPI**  
+| Transportadora | Total Viagens | Taxa Atraso |
+|----------------|---------------|-------------|
+| Cargas Bahia          | 1,16 mil | 30,08% |
+| ExpressCargo          | 567      |     0% |
+| Log Elite             | 5,40 mil | 31,28% |
+| RodaFirme Transportes | 1,22 mil | 31,91% |
 
 
 <br>
 
 ### 4. Sugestões
+Considerando que a maior parte dos transportes para essa região vieram de Campinas/SP, fatores como a distância da viagem, tipo de estrada e desempenho do veículo (tipo Truck foi o mais utilizado) podem estar influenciando 
