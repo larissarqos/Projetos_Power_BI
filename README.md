@@ -5,6 +5,10 @@
   <img src="https://github.com/user-attachments/assets/c2d017a1-0241-4d13-b3b2-f2cd33b83b0c" alt="analise_vendas" width="1100"/>
 </p>
 
+<br>
+
+## Análise e visualização de dados no Power BI, contanto com:
+
  * ### 🛠 Power Query, DAX
  * ### 🔧 Modelagem de Dados
  * ### 📊 Dashboards interativos
