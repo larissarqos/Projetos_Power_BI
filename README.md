@@ -7,7 +7,7 @@
 
 <br>
 
-## Análise e visualização de dados no Power BI, contanto com:
+## Análise e visualização de dados no Power BI, contando com:
 
  * ### 🛠 Power Query, DAX
  * ### 🔧 Modelagem de Dados
