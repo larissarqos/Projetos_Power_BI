@@ -2,8 +2,9 @@
 <h1 align="center"> 📊 Análise de Campanhas de Marketing</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dd814300-1acf-4101-8ba2-b529a058a2b8" alt="imagem" width="1100"/>
+  <img src="https://github.com/user-attachments/assets/916143f1-3bf2-4f0d-be77-7bb6360cbf27" alt="imagem" width="1100"/>
 </p>
+
 
 
 <br>
