@@ -127,11 +127,16 @@ De maneira geral, a taxa de churn dos serviços é altíssima, quase 40%. O foco
 -**Aumento das assinaturas do tipo anual e recorrente:**  Um programa de membros pode ajudar a unir essas duas opções, ofertando vantagens e conteúdos exclusivos para os clientes optarem por esse serviço.
 
 #### 🟦 Aumentar a fidelização
-- **Melhorar ou criar campanhas de fidelização:**
-  Lançar descontos e promoções periódicos;
-  Oferecer upgrades com benefícios exclusivos;
-  Incentivar a assinatura de pacotes família / assinatura compartilhada;
-  Personalizar recomendações de acordo com o perfil do cliente;
+- **Melhorar ou criar campanhas de fidelização:** Há uma série de opções que podem ser adotadas:
+
+  Lançar descontos e promoções periódicos.
+
+  Oferecer upgrades com benefícios exclusivos.
+
+  Incentivar a assinatura de pacotes família / assinatura compartilhada.
+
+  Personalizar recomendações de acordo com o perfil do cliente.
+
   Criar programas de indicação concedendo descontos / mensalidade grátis para cada indicação bem sucedida.
   
 #### 🟦 Melhorar o atendimento ao cliente
