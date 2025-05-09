@@ -1,5 +1,10 @@
 <h1 align="center">Business Case - Dashboard de Logística</h1>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5c7bd594-a729-41b5-824e-7416f2afe7e8" alt="imagem" width="1100"/>
+</p>
+
+
 ## Contexto
 A área de logística de uma empresa automotiva fictícia busca otimizar a eficiência operacional e melhorar a satisfação dos clientes através de uma gestão mais precisa das suas operações de transporte. Eles desejam, especialmente, avaliar os atrasos nas entregas e que fatores estão relacionados a esses atrasos, para que possam operar nesses problemas e assim melhorar seus resultados e atendimento aos seus clientes.
 
