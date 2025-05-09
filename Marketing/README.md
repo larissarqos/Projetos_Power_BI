@@ -1,9 +1,10 @@
 
-<h1 align="center"> 📊 Business Case - Análise de Vendas </h1>
+<h1 align="center"> 📊 Análise de Campanhas de Marketing</h1>
 
 <p align="center">
-  <img src="" alt="imagem" width="1100"/>
+  <img src="https://github.com/user-attachments/assets/dd814300-1acf-4101-8ba2-b529a058a2b8" alt="imagem" width="1100"/>
 </p>
+
 
 <br>
 
