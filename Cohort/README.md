@@ -1,13 +1,33 @@
-<h1 align="center">Business Case - Assinaturas de Streaming</h1>
+<h1 align="center"> 📊 Business Case - Assinaturas de Streaming</h1>
 
-## Contexto
-Precisamos descobrir a taxa de churn de diferentes serviços de assinaturas de streaming (dados fictícios): Amazon, Disney, Globoplay, HBO, Netflix e Telecine. Para isso, aplicaremos a Análise de Cohort para entender os resultados dos diferentes serviços, considerando também a campanha em que foi assinado o produto (se promocional, de reativação ou recorrente) e qual o tipo de assinatura (se mensal ou anual). A análise realizada no Power BI nos guiará a responder a uma série de perguntas de negócio e propor possíveis soluções.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aeb43c96-67f1-4208-b867-1bf1a376b9de" alt="analise_vendas" width="1100"/>
+</p>
 
-## Objetivos
+## 📃 Contexto
+Analisaremos a taxa de churn de diferentes serviços de streaming (dados fictícios): Amazon, Disney, Globoplay, HBO, Netflix e Telecine. Aplicaremos a Análise de Cohort para entender essas taxas considerando os fatores: campanha (promocional, reativação ou recorrente) e tipo de assinatura (mensal ou anual). 
+
+***
+
+<br>
+
+## 🛠️ Ferramentas e Métodos Utilizados
+- Power BI (DAX, Power Query, gráficos)
+- Integração com Excel
+- Business Intelligence
+  
+***
+
+<br>
+## 🎯 Objetivos
 O objetivo da análise é identificar as taxas de churn e retenção dos serviços de assinatura considerando os fatores campanha e tipo de assinatura. Através da análise, vamos identificar os principais influenciadores da taxa de churn e o que pode ser feito para aumentar nossa taxa de retenção. Começaremos com uma análise exploratória dos dados e então responderemos a uma série de perguntas de negócio.
 
-## Estrutura do Projeto
-### 1. Banco de dados
+***
+
+<br>
+
+##  🧱 Estrutura do Projeto
+### 🗄 Banco de dados
 Abaixo o dicionário dos dados:
 
 | Coluna | Descrição |
@@ -19,27 +39,37 @@ Abaixo o dicionário dos dados:
 | signup_date_time | Data de assinatura |
 | cancel_date_time | Data de cancelamento |
 
+***
+
 <br>
 
-### 2. Análise Exploratória
+### 🔎 Análise Exploratória
 
-**1. Qual o período avaliado?**  
+#### 📌 1. Qual o período avaliado?**  
 As datas de assinatura de fevereiro de 2022 a abril de 2023
 
-**2. Qual o total de assinaturas?**  
+--
+
+#### 📌 2. Qual o total de assinaturas?**  
 Há um total de 69.993 assinaturas
 
-**3. Qual o total de assinaturas ativas e canceladas?**  
+-- 
+
+#### 📌 3. Qual o total de assinaturas ativas e canceladas?**  
 Do total, 43.203 assinaturas estão ativas (61,72%) e 26.790 estão canceladas (38,28%)
+
+***
 
 <br>
 
-### 3. Respondendo às perguntas de negócio
+### 📍 Respondendo às perguntas de negócio
 
-**1. Que produto é o mais assinado?**  
+#### 📌 1. Que produto é o mais assinado?**  
 HBO (17.508 assinaturas), Netflix (15.405 assinaturas) e Amazon (14.337 assinatuas) lideram o TOP 3, respondendo a quase 70% do total de assinaturas.
+
+--
    
-**2. Quais as taxas de retenção e churn, por produto?**  
+#### 📌 2. Quais as taxas de retenção e churn, por produto?**  
 Conforme tabela abaixo, podemos notar que não há grande variação nas taxas de retenção e churn, de acordo com o produto. Todos apresentam taxas similares.
 
 | Produto   | Total Assinaturas | Taxa de Retenção | Taxa de Churn |
@@ -51,7 +81,9 @@ Conforme tabela abaixo, podemos notar que não há grande variação nas taxas d
 | Netflix   | 15.405 | 61,46% | 38,54% |
 | Telecine  | 6.097  | 62,29% | 37,71% | 
 
-**3. Quais as taxas de churn e retenção, por campanha?**  
+--
+
+#### 📌 3. Quais as taxas de churn e retenção, por campanha?**  
 Comparando o total de assinaturas das campanhas Promocional e Reativação, cuja quantidade de assinaturas é similar, nota-se o quão alta é a taxa de churn da campanha promocional (73,01%), quase o dobro de Reativação.
 
 | Campanha  | Total Assinaturas | Taxa de Retenção | Taxa de Churn |
@@ -60,7 +92,9 @@ Comparando o total de assinaturas das campanhas Promocional e Reativação, cuja
 | Reativação  | 21.133 | 60,67% | 39,33% |
 | Recorrente  | 29.767 | 84,80% | 15,25% |
 
-**4. Que tipo assinatura teve menor taxa de churn: anual ou mensal?**  
+--
+
+#### 📌 4. Que tipo assinatura teve menor taxa de churn: anual ou mensal?**  
 As assinaturas anuais, mesmo em maior número (aprox. 7 mil assinaturas a mais) que as mensais, possuem menor taxa de cancelamento (32,44%), enquanto as assinaturas por mês contam churn de 45,44%.
 
 | Tipo Assinatura  | Total Assinaturas | Taxa de Retenção | Taxa de Churn |
@@ -68,22 +102,52 @@ As assinaturas anuais, mesmo em maior número (aprox. 7 mil assinaturas a mais) 
 | Anual   | 38.576 | 67,56% | 32,44% |
 | Mensal  | 31.417 | 54,56% | 45,44% |
 
-**5. Que períodos do ano contaram com maior taxa de churn?**  
+--
+
+#### 📌 5. Que períodos do ano contaram com maior taxa de churn?**  
 As assinaturas dos meses de julho/2022 e janeiro/2023, de forma geral, contaram com uma maior taxa de cancelamentos.
 
-**6. Indique o produto, campanha, e tipo de assinatura com os melhores resultados**
+--
+
+#### 📌 6. Indique o produto, campanha, e tipo de assinatura com os melhores resultados**
    
 * **Produto:** Os produtos contaram com um desempenho similar em quesitos de churn e retenção. Se avaliarmos por total de assinaturas, HBO, Netflix e Amazon tiveram melhor desempenho
 * **Campanha:** As camapanhas de reativação tiveram menor taxa de churn, 15,25%
 * **Tipo de Assinatura:** As assinaturas anuais contaram com menor taxa de cancelamento, 32,44%
 
+***
+
 <br>
 
-### 4. Sugestões
-De maneira geral, a taxa de churn dos serviços é altíssima, quase 40%. O ideal é que esteja mais próxima de 0 possível, sendo 5% um valor aceitável. Se temos 40% como taxa de churn, estamos 8x acima do cenário ideal e isso é preocupante. O foco das sugestões será a redução dos cancelamentos, segue alguns pontos que podemos considerar para melhorar nossa retenção:
+### 📈 Recomendações Estratégicas
+De maneira geral, a taxa de churn dos serviços é altíssima, quase 40%. O foco das recomendações será a redução dos cancelamentos . 
+**Cenário ideal:** Mais próxima de 0 possível, 5% é um valor aceitável.
 
-* **Primeiro, foco:** Devemos focar em assinaturas do tipo anual e campanhas do tipo Recorrente. Um programa de membros pode ajudar a unir essas duas opções, ofertando produtos diferenciados e exclusivos para os clientes que optarem por essa opção. No geral, aumentar o contato com o cliente, melhorar o atendimento e estar atento às preferências de acordo com seu perfil, são ações que podem melhorar a confiança e fidelidade desses clientes, aumentanddo nossa retenção.
+#### 🟦 Incentivar as assinaturas cujas campanha e período contaram com maior retenção
+-**Aumento das assinaturas do tipo anual e recorrente:**  Um programa de membros pode ajudar a unir essas duas opções, ofertando vantagens e conteúdos exclusivos para os clientes optarem por esse serviço.
 
-* **Programas de Fidelização:** Com uma taxa de churn de quase 40%, devemos desenvolver programas de fidelização para nossos clientes. Oferecer descontos e ofertas em meses comemorativos (vai criar no cliente a expectativa de receber uma nova promoção nas próximas datas comemorativas); incentivar a assinatura para pacotes família ou assinatura compartilhada (aumentando a fidelização do cliente) e inserir também programas de recomendação, concedendo descontos ou mensalidade grátis para cada indicação bem sucedida, são medidas que podem fazer nossos clientes ficarem mais tempo.
+#### 🟦 Aumentar a fidelização
+- **Melhorar ou criar campanhas de fidelização:**
+  Lançar descontos e promoções periódicos;
+  Oferecer upgrades com benefícios exclusivos;
+  Incentivar a assinatura de pacotes família / assinatura compartilhada;
+  Personalizar recomendações de acordo com o perfil do cliente;
+  Criar programas de indicação concedendo descontos / mensalidade grátis para cada indicação bem sucedida.
+  
+#### 🟦 Melhorar o atendimento ao cliente
+- **Melhorar os canais de atendimento** No geral, aumentar o contato com o cliente, melhorar o atendimento e estar atento às preferências de acordo com seu perfil, são ações que podem melhorar a confiança e fidelidade desses clientes, aumentanddo nossa retenção.
 
-* **Avaliar a campanha Promocional:**  Quase 1/3 dos clientes vieram através da campanha promocional e mais de 70% deles cancelaram. Devemos analisar que programas de fidelização foram aplicadas para manter esses clientes e, se foram aplicadas, qual o motivo de seu fracasso. A retenção foi baixíssima para essa campanha, apesar da alta captação de clientes. Devemos nos perguntar: o público alvo da campanha tinha real interesse no que foi ofertado? Houveram muitas reclamações dos que vieram por essa campanha? O que foi feito para manter esse clientes? Essas perguntas podem nos guiar a otimizar uma próxima campanha promocional (que teve boa captação) e aumentar a retenção de clientes através dela.
+#### 🟦 Otimizar a campanha Promocional
+- **Identificar erros e acertos da campanha Promocional:** A campanha promocional contou com alta conversão (quase 1/3 dos clientes vieram através dela), mas baixíssima retenção (churn de mais de 70%). Algumas perguntas podem levar a melhor clareza e posterior otimização dessa campanha, que contou com alta captação:
+
+  O público alvo da campanha tinha real interesse no que foi ofertado?
+
+  Houveram muitas reclamações dos que vieram por essa campanha?
+
+  Que programas de fidelização foram aplicados nos clientes que vieram através dessa campanha?
+
+***
+
+<br>
+
+*Este projeto foi desenvolvido como parte do meu portfólio em análise de dados. Sinta-se à vontade para explorar os dados, sugerir melhorias ou entrar em contato!*
