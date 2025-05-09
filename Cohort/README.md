@@ -144,9 +144,6 @@ De maneira geral, a taxa de churn dos serviços é altíssima, quase 40%. O foco
 
   Criar programas de indicação concedendo descontos / mensalidade grátis para cada indicação bem sucedida.
   
-#### 🟦 Melhorar o atendimento ao cliente
-- **Melhorar os canais de atendimento** No geral, aumentar o contato com o cliente, melhorar o atendimento e estar atento às preferências de acordo com seu perfil, são ações que podem melhorar a confiança e fidelidade desses clientes, aumentanddo nossa retenção.
-
 #### 🟦 Otimizar a campanha Promocional
 - **Identificar erros e acertos da campanha Promocional:** A campanha promocional contou com alta conversão (quase 1/3 dos clientes vieram através dela), mas baixíssima retenção (churn de mais de 70%). Algumas perguntas podem levar a melhor clareza e posterior otimização dessa campanha, que contou com alta captação:
 
