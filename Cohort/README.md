@@ -13,7 +13,9 @@ Analisaremos a taxa de churn de diferentes serviços de streaming (dados fictíc
 
 ## 🛠️ Ferramentas e Métodos Utilizados
 - Power BI (DAX, Power Query, gráficos)
-- Integração com Excel
+- Excel (fonte dos dados)
+- Modelagem dos dados
+- Engenharia de atributos
 - Business Intelligence
   
 ***
