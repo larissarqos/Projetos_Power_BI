@@ -124,13 +124,19 @@ Selecionando o Top 3: Minas Gerais, Piauí e Rio de Janeiro têm maior custo de 
 <br>
 
 ### 📈 Recomendações Estratégicas
-De acordo com a análise, podemos considerar alguns pontos:
-* Descartar o fator peso de carga como principal influenciador dos atrasos no transporte;
-* No geral, a região Nordeste conta com maior taxa de atraso. Considerando que a maior parte dos transportes para essa região vieram de Campinas/SP, podemos considerar fatores externos para esse atraso: distância do transporte, qualidade das estradas para essas regiões;
-* As transportadores têm desempenho semelhante no que diz respeito aos atrasos.
+Dada a análise dos dados e insights obtidos, a adoção das medidas abaixo sugeridas podem otimizar o transporte das cargas, diminuindo as taxas de atraso.
 
-De acordo com esses pontos e análise em geral, podemos tomar algumas das seguintes decisões:
-* Buscar otimizar o transporte, verificando a viabilidade de utilizar as transportadores de Salvador para atender especialmente o Nordeste (transportes saídos de Salvador para as outras cidades do Nordeste têm menor taxa de atraso quando comparados a Campinas e Manaus);
-* Aumentar o prazo contratado para as regiões cuja margem de atraso é maior, especialmente considerando que esses atrasos podem estar ligados a fatores externos (qualidade da estrada, distância);
-* Dar preferência a veículos do tipo Carreta e Truck, que contaram com melhor desempenho na relação atraso x peso de carga.
+#### 🟦 Otimizar o transporte para a região Nordeste
+- **Priorizar transportadoras de Salvador para atender a região Nordeste:** Verificar a viabilidade de utilizar as transportadores de Salvador para atender especialmente o Nordeste, região com maior margem de atraso. Transportes saídos de Salvador para as outras cidades do Nordeste têm menor taxa de atraso quando comparados aos saídos de Campinas e Manaus.
+
+#### 🟦 Ajuste do prazo contratado
+- **Aumentar o prazo de entrega para as regiões com maior atraso:** Ajustar o prazo contratado para as regiões cuja margem de atraso é maior pode melhorar a satisfação dos clientes, uma vez que não haverá quebra de expectativa quanto à data de chegada dos produtos. É importante observar que os atrasos podem estar ligados a fatores externos como qualidade das estradas e engarrafamentos.
+
+#### 🟦 Priorizar uso de veículos de melhor desempenho
+- **Preferir uso de Carreta e Truck:** Os veículos do tipo Carreta e Truck contaram com melhor desempenho na relação Taxa de Atraso x Peso de carga.
+
+
+<br>
+
+*Este projeto foi desenvolvido como parte do meu portfólio em análise de dados. Sinta-se à vontade para explorar os dados, sugerir melhorias ou entrar em contato!*
 
