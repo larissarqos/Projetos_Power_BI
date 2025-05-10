@@ -19,7 +19,10 @@ Uma multinacional fictícia busca entender o perfil de seus clientes e os result
 <br>
 
 ## 🛠️ Ferramentas e Métodos Utilizados
-- Microsoft Excel (fórmulas, tabelas dinâmicas, gráficos, slicers)
+- Power BI (DAX, Power Query, gráficos)
+- Excel (fonte dos dados)
+- Modelagem dos dados
+- Engenharia de atributos
 - Business Intelligence
   
 ***
@@ -27,7 +30,7 @@ Uma multinacional fictícia busca entender o perfil de seus clientes e os result
 <br>
 
 ## 🎯 Objetivos  
-Para atender à demanda da empresa, realizamos uma análise exploratória das vendas de 2024, com foco nas seguintes questões-chave:
+Para identificaIdentificar o perfil de clientes da empresa e 
 
 - Qual foi o faturamento de 2024?   
 - Quais lojas mais se destacaram em vendas?  
