@@ -5,10 +5,6 @@
   <img src="https://github.com/user-attachments/assets/593e7dba-0696-4d98-816a-d4ed18ab7c60" alt="imagem" width="1100"/>
 </p>
 
-
-
-
-
 <br>
 
 ## 📃 Contexto  
