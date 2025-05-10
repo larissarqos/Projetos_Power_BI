@@ -11,6 +11,18 @@ A área de logística de uma empresa automotiva fictícia busca otimizar a efici
 
 <br>
 
+## 🛠️ Ferramentas e Métodos Utilizados
+- Power BI (DAX, Power Query, gráficos)
+- Excel (fonte dos dados)
+- Modelagem dos dados
+- Engenharia de atributos
+- KPI
+- Business Intelligence
+  
+***
+
+<br>
+
 ## 🎯 Objetivos
 O objetivo da análise é identificar fatores relacionados ao atraso nas entregas e propor soluções que diminuam as taxas de atraso, melhorando assim a qualidade dos serviços da empresa e consequentemente aumentando a satisfação dos clientes.
 
