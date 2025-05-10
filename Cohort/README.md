@@ -118,7 +118,7 @@ As assinaturas de julho/2022 e janeiro/2023 contaram com uma maior taxa de cance
 #### 📌 6. Indique o produto, campanha, e tipo de assinatura com os melhores resultados**
    
 * **Produto:** Os produtos contaram com um desempenho similar em quesitos de churn e retenção. Se avaliarmos por total de assinaturas, HBO, Netflix e Amazon tiveram melhor desempenho
-* **Campanha:** As camapanhas de reativação tiveram menor taxa de churn, 15,25%
+* **Campanha:** As campanhas de reativação tiveram menor taxa de churn, 15,25%
 * **Tipo de Assinatura:** As assinaturas anuais contaram com menor taxa de cancelamento, 32,44%
 
 ***
