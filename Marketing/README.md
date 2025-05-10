@@ -30,14 +30,14 @@ Uma multinacional fictícia busca entender o perfil de seus clientes e os result
 <br>
 
 ## 🎯 Objetivos  
-Para identificaIdentificar o perfil de clientes da empresa e 
+Dividiremos a análise em 4 pontos para identificar o perfil geral dos clientes, seu comportamento de compra, a performance das campanhas e o padrão de consumo por país, ficando:
 
-- Qual foi o faturamento de 2024?   
-- Quais lojas mais se destacaram em vendas?  
-- Quais foram os produtos mais vendidos?  
-- As lojas atingiram a meta mensal estabelecida de R$7.000,00?
+- Visão Cliente
+- Visão Comportamento de Compra
+- Visão Performance das Campanhas
+- Visão Padrões de Consumo Por País
 
-Com base nessas perguntas, conseguimos avaliar o desempenho por loja, produto e mês — oferecendo à empresa uma visão clara sobre os pontos fortes e oportunidades de melhoria.
+Para cada ponto, buscaremos obter insights valiosos que auxiliem na tomada de decisão de acordo com o perfil dos clientes nos diferentes países e no aprimoramento de futuras campanhas de marketing.
 
 ***
 
