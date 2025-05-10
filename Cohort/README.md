@@ -130,10 +130,10 @@ De maneira geral, a taxa de churn dos serviços é altíssima, quase 40%. O foco
 **Cenário ideal:** Mais próxima de 0 possível, 5% é um valor aceitável.
 
 #### 🟦 Incentivar as assinaturas cujas campanha e período contaram com maior retenção
-- **Aumento das assinaturas do tipo anual e recorrente:**  Um programa de membros pode ajudar a unir essas duas opções, ofertando vantagens e conteúdos exclusivos para os clientes optarem por esse serviço.
+- **Aumento das assinaturas do tipo anual e recorrente -**  Um programa de membros pode ajudar a unir essas duas opções, ofertando vantagens e conteúdos exclusivos para os clientes optarem por esse serviço.
 
 #### 🟦 Aumentar a fidelização
-- **Melhorar ou criar campanhas de fidelização:** Há uma série de opções que podem ser adotadas, tais como:
+- **Melhorar ou criar campanhas de fidelização -** Há uma série de opções que podem ser adotadas, tais como:
 
   Lançar descontos e promoções periódicos.
 
@@ -146,7 +146,7 @@ De maneira geral, a taxa de churn dos serviços é altíssima, quase 40%. O foco
   Criar programas de indicação concedendo descontos / mensalidade grátis para cada indicação bem sucedida.
   
 #### 🟦 Otimizar a campanha Promocional
-- **Identificar erros e acertos da campanha Promocional:** A campanha promocional contou com alta conversão (quase 1/3 dos clientes vieram através dela), mas baixíssima retenção (churn de mais de 70%). Algumas perguntas podem levar a melhor clareza e posterior otimização dessa campanha, que contou com alta captação:
+- **Identificar erros e acertos da campanha Promocional -** A campanha promocional contou com alta conversão (quase 1/3 dos clientes vieram através dela), mas baixíssima retenção (churn de mais de 70%). Algumas perguntas podem levar a melhor clareza e posterior otimização dessa campanha, que contou com alta captação:
 
   O público alvo da campanha tinha real interesse no que foi ofertado?
 
