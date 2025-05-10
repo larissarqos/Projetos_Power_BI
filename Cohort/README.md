@@ -21,6 +21,7 @@ Analisaremos a taxa de churn de diferentes serviços de streaming (dados fictíc
 ***
 
 <br>
+
 ## 🎯 Objetivos
 O objetivo da análise é entender as taxas de churn e retenção dos serviços de assinatura considerando os fatores campanha e tipo de assinatura. Identificaremos os principais influenciadores das taxas de cancelamento e possíveis medidas  para aumentar a retenção. Começaremos com uma análise exploratória dos dados e então responderemos a uma série de perguntas de negócio.
 
@@ -117,7 +118,7 @@ As assinaturas de julho/2022 e janeiro/2023 contaram com uma maior taxa de cance
 #### 📌 6. Indique o produto, campanha, e tipo de assinatura com os melhores resultados**
    
 * **Produto:** Os produtos contaram com um desempenho similar em quesitos de churn e retenção. Se avaliarmos por total de assinaturas, HBO, Netflix e Amazon tiveram melhor desempenho
-* **Campanha:** As camapanhas de reativação tiveram menor taxa de churn, 15,25%
+* **Campanha:** As campanhas de reativação tiveram menor taxa de churn, 15,25%
 * **Tipo de Assinatura:** As assinaturas anuais contaram com menor taxa de cancelamento, 32,44%
 
 ***
@@ -129,10 +130,10 @@ De maneira geral, a taxa de churn dos serviços é altíssima, quase 40%. O foco
 **Cenário ideal:** Mais próxima de 0 possível, 5% é um valor aceitável.
 
 #### 🟦 Incentivar as assinaturas cujas campanha e período contaram com maior retenção
-- **Aumento das assinaturas do tipo anual e recorrente:**  Um programa de membros pode ajudar a unir essas duas opções, ofertando vantagens e conteúdos exclusivos para os clientes optarem por esse serviço.
+- **Aumento das assinaturas do tipo anual e recorrente -**  Um programa de membros pode ajudar a unir essas duas opções, ofertando vantagens e conteúdos exclusivos para os clientes optarem por esse serviço.
 
 #### 🟦 Aumentar a fidelização
-- **Melhorar ou criar campanhas de fidelização:** Há uma série de opções que podem ser adotadas:
+- **Melhorar ou criar campanhas de fidelização -** Há uma série de opções que podem ser adotadas, tais como:
 
   Lançar descontos e promoções periódicos.
 
@@ -145,7 +146,7 @@ De maneira geral, a taxa de churn dos serviços é altíssima, quase 40%. O foco
   Criar programas de indicação concedendo descontos / mensalidade grátis para cada indicação bem sucedida.
   
 #### 🟦 Otimizar a campanha Promocional
-- **Identificar erros e acertos da campanha Promocional:** A campanha promocional contou com alta conversão (quase 1/3 dos clientes vieram através dela), mas baixíssima retenção (churn de mais de 70%). Algumas perguntas podem levar a melhor clareza e posterior otimização dessa campanha, que contou com alta captação:
+- **Identificar erros e acertos da campanha Promocional -** A campanha promocional contou com alta conversão (quase 1/3 dos clientes vieram através dela), mas baixíssima retenção (churn de mais de 70%). Algumas perguntas podem levar a melhor clareza e posterior otimização dessa campanha, que contou com alta captação:
 
   O público alvo da campanha tinha real interesse no que foi ofertado?
 
