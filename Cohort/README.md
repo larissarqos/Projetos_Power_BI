@@ -21,6 +21,7 @@ Analisaremos a taxa de churn de diferentes serviços de streaming (dados fictíc
 ***
 
 <br>
+
 ## 🎯 Objetivos
 O objetivo da análise é entender as taxas de churn e retenção dos serviços de assinatura considerando os fatores campanha e tipo de assinatura. Identificaremos os principais influenciadores das taxas de cancelamento e possíveis medidas  para aumentar a retenção. Começaremos com uma análise exploratória dos dados e então responderemos a uma série de perguntas de negócio.
 
