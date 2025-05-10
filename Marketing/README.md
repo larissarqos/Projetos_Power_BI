@@ -47,14 +47,43 @@ Para cada ponto, buscaremos obter insights valiosos que auxiliem na tomada de de
 
 ### 🗄 Banco de dados  
 
-| Coluna           | Descrição                                              |
-|------------------|--------------------------------------------------------|
+| Coluna           | Descrição                                              |  |
+|------------------|--------------------------------------------------------|--|
 | Loja             | Nome da filial                                         |
 | Data             | Data da venda                                          |
 | Produto          | Produto vendido                                        |
 | Valor_Unitario   | Valor unitário do produto                              |
 | Quantidade       | Quantidade vendida                                     |
 | Valor_Total      | Valor total da venda (Quantidade × Valor Unitário)     |
+
+<table>
+  <tr>
+    <td>
+
+<!-- Tabela 1 -->
+  
+| Produto   | Vendas |
+|-----------|--------|
+| Camisa    | 120    |
+| Calça     | 80     |
+
+</td>
+<td>
+
+<!-- Tabela 2 -->
+
+| Loja      | Faturamento |
+|-----------|-------------|
+| Ipanema   | R$ 80.000   |
+| Botafogo  | R$ 70.000   |
+
+</td>
+</tr>
+</table>
+
+
+
+
 
 ***
 
