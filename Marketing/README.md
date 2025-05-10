@@ -12,7 +12,7 @@
 <br>
 
 ## 📃 Contexto  
-Uma multinacional fictícia deseja
+Uma multinacional fictícia busca entender o perfil de seus clientes e os resultados de suas campanhas de marketing, de acordo com esse perfil. Ela deseja, através dessa análise, otimizar suas campanhas futuras, tornando-as mais personalizadas de acordo com o público que atendem, nos diferentes países em que atuam.
 
 ***
 
