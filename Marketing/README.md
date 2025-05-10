@@ -47,35 +47,51 @@ Para cada ponto, buscaremos obter insights valiosos que auxiliem na tomada de de
 
 ### 🗄 Banco de dados  
 
-| Coluna           | Descrição                                              |  |
-|------------------|--------------------------------------------------------|--|
-| Loja             | Nome da filial                                         |
-| Data             | Data da venda                                          |
-| Produto          | Produto vendido                                        |
-| Valor_Unitario   | Valor unitário do produto                              |
-| Quantidade       | Quantidade vendida                                     |
-| Valor_Total      | Valor total da venda (Quantidade × Valor Unitário)     |
-
 <table>
   <tr>
     <td>
 
-<!-- Tabela 1 -->
   
-| Produto   | Vendas |
-|-----------|--------|
-| Camisa    | 120    |
-| Calça     | 80     |
+| Coluna  | Descrição |
+|---------|-----------|
+| ID                        | 120    |
+| Ano Nascimento            | 80     |
+| Idade                     | 120    |
+| Faixa Etaria              | 120    |
+| Escolaridade              | 80     |
+| Estado Civil              | 120    |
+| Salario Anual             | 80     |
+| Filhos em Casa            | 120    |
+| Adolescentes em Casa      | 80     |
+| Data Cadastro             | 120    |
+| Dias Desde Ultima Compra  | 80     |
+| Gasto com Eletronicos     | 120    |
+| Gasto com Brinquedos      | 80     |
+| Gasto com Moveis          | 120    |
+| Gasto com Utilidades      | 80     |
+
 
 </td>
 <td>
 
-<!-- Tabela 2 -->
 
-| Loja      | Faturamento |
-|-----------|-------------|
-| Ipanema   | R$ 80.000   |
-| Botafogo  | R$ 70.000   |
+| Coluna  | Descrição |
+|---------|-----------|
+| Gasto com Alimentos             | 120    |
+| Gasto com Vestuario             | 80     |
+| Numero de Compras com Desconto  | 120    |
+| Numero de Compras na Web        | 120    |
+| Numero de Compras via Catalogo  | 80     |
+| Numero de Compras na Loja       | 120    |
+| Numero Visitas WebSite Mes      | 80     |
+| Compra na Campanha 1            | 120    |
+| Compra na Campanha 2            | 80     |
+| Compra na Campanha 3            | 120    |
+| Compra na Campanha 4            | 80     |
+| Compra na Campanha 5            | 120    |
+| Total Compras Campanhas         | 80     |
+| Comprou                         | 120    |
+| País                            | 80     |
 
 </td>
 </tr>
