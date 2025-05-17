@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> 📊 Dashboard RH </h1>
+<h1 align="center"> 📊 Dashboard - Setor de RH </h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b25045b0-a729-485b-a559-c8b113615c0c" alt="hr" width="1100"/>
