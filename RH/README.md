@@ -3,10 +3,11 @@
 <h1 align="center"> 📊 Business Case - Análise de Vendas </h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4857c915-c3ea-4c16-b664-110d5f3dceb1" alt="hr" width="1100"/>
+  <img src="https://github.com/user-attachments/assets/e26b3d3c-6c9a-4fd4-a321-308352622e44" alt="hr" width="1100"/>
 </p>
 
 <br>
+
 
 ## 📃 Contexto  
 O setor comercial de uma rede fictícia de lojas de roupas deseja avaliar o desempenho de suas filiais ao longo do ano de 2024. Com uma **meta mensal de R$7.000,00 por loja**, a empresa busca entender se os objetivos foram alcançados, identificar quais unidades e produtos geraram maior retorno, além de obter uma visão consolidada sobre seu faturamento anual.
